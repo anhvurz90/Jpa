@@ -40,6 +40,7 @@ public class JpaTest {
   }
   
   public static void main(String[] args) {
+    //mvn compile exec:java -Dexec.mainClass=
     EntityManagerFactory factory = Persistence.createEntityManagerFactory("persistenceUnit");
     EntityManager manager = factory.createEntityManager();
     JpaTest test = new JpaTest(manager);
