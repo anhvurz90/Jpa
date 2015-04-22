@@ -17,6 +17,7 @@
 
     <modules>
 	<module>jpa1</module>
+	<module>jpa2</module>	
     </modules>
 
 </project>
