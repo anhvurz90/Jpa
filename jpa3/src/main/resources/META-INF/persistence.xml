@@ -13,6 +13,10 @@
         <class>com.anhvurz90.jpa3.domain.joinedtable.TeachingStaff2</class>
         <class>com.anhvurz90.jpa3.domain.joinedtable.NonTeachingStaff2</class>
         
+        <class>com.anhvurz90.jpa3.domain.tableperclass.Staff3</class>
+        <class>com.anhvurz90.jpa3.domain.tableperclass.TeachingStaff3</class>
+        <class>com.anhvurz90.jpa3.domain.tableperclass.NonTeachingStaff3</class>
+        
         <properties>
             <property name="javax.persistence.jdbc.driver" value="com.mysql.jdbc.Driver" />
             <property name="javax.persistence.jdbc.url" value="jdbc:mysql://localhost:3306/jpadb" />
