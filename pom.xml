@@ -23,6 +23,7 @@
 	<module>jpa5OTM</module>
 	<module>jpa6OTO</module>
 	<module>jpa7MTM</module>
+	<module>jpa8Criteria</module>
     </modules>
 
 </project>
