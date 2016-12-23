@@ -24,6 +24,7 @@
 	<module>jpa6OTO</module>
 	<module>jpa7MTM</module>
 	<module>jpa8Criteria</module>
+	<module>jpaDumpData</module>
     </modules>
 
 </project>

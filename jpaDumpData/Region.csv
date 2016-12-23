@@ -1,0 +1,21 @@
+id;name;type
+1;East Asia & Pacific;WB
+2;Europe & Central Asia;WB
+5;Latin America & Caribbean;WB
+6;Middle East & North Africa;WB
+7;North America;WB
+9;South Asia;WB
+10;Sub Saharan Africa;WB
+11;Asia Pacific;LR
+13;Eastern Europe;LR
+15;Latin America;LR
+16;Mena;LR
+17;Other;LR
+19;Sub Saharan Africa;LR
+20;Sub Saharan Africa;IPO
+21;Asia Pacific;IPO
+22;CIS;IPO
+23;Eastern Europe;IPO
+24;Latin America;IPO
+25;Mena;IPO
+26;Other;IPO
